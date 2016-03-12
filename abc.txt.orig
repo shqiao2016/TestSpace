@@ -1,0 +1,9 @@
+1. abcd
+2. add one line
+3. add line 2
+4. zeng jia dao gzan cun qu
+<<<<<<< HEAD
+5. added by master branch
+=======
+5. added by feature1 branch
+>>>>>>> feature1
